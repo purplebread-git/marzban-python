@@ -18,9 +18,9 @@ async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=ssl_context)
     async with session.get('')
 
 
-TOKEN = "7790791983:AAHdeSBOCrkPGthbTgktRkXuAQERwXyFuOA"
-MARZBAN_API_URL = "https://purpleshield.ru/api"
-MARZBAN_API_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImFjY2VzcyI6InN1ZG8iLCJpYXQiOjE3Mzk2MzYzMTEsImV4cCI6MTczOTcyMjcxMX0.vhMGGRmFUC3bHZS_YtgmGyshXL-Gn-2cxL8GekfoKsg"
+TOKEN = "kXuAQERwXyFuOA"
+MARZBAN_API_URL = ""
+MARZBAN_API_TOKEN = ".._-Gn-2cxL8GekfoKsg"
 YMONEY_WALLET = "YOUR_YUMONEY_WALLET"
 PRICE = 300  # Стоимость подписки в рублях
 
