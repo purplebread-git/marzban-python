@@ -8,7 +8,7 @@ from marzban_api_client.types import Response
 
 login_data = BodyAdminTokenApiAdminTokenPost(
     username="admin",
-    password="BrMeThHo.8",
+    password="",
 )
 
 client = Client(base_url="https://purpleshield.ru")
